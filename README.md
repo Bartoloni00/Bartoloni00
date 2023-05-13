@@ -1,20 +1,24 @@
 # ¡Hola! 👋 Soy Abraham
 Soy un diseñador y programador web full stack con experiencia en una variedad de tecnologías y herramientas. Mi enfoque principal es crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
 
-## Habilidades
+## Lenguajes :man_technologist: 
 - HTML
 - CSS
 - JavaScript
 - PHP
+- MySQL
+
+ ## Frameworks y OS :mechanical_arm:
 - React
 - Wordpress
-- MySQL
-- Linux
+- Bootstrap
+- Linux (CentOS)
+
+## Software de diseño 	:artist:
 - Illustrator
 - Photoshop
-- Bootstrap
- 
-## Contacto
+
+## Contactame :point_left:
 Correo electrónico: bartoloniabraham@gmail.com
 LinkedIn: https://www.linkedin.com/in/abraham-bartoloni/
               
