@@ -1,5 +1,4 @@
 # ¡Hola! 👋 Soy Abraham
-<hr>
 Soy un diseñador y programador web full stack con experiencia en una variedad de tecnologías y herramientas. Mi enfoque principal es crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
 
 ## Habilidades
@@ -16,8 +15,8 @@ Soy un diseñador y programador web full stack con experiencia en una variedad d
 - Bootstrap
  
 ## Contacto
-Correo electrónico: bartoloniabraham@gmail.com<br>
-LinkedIn: <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="abraham-bartoloni" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/abraham-bartoloni?trk=profile-badge">Abraham Bartoloni</a></div>
+Correo electrónico: bartoloniabraham@gmail.com
+LinkedIn: https://www.linkedin.com/in/abraham-bartoloni/
               
               
 
