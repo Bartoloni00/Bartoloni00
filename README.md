@@ -16,7 +16,8 @@ Soy un diseñador y programador web full stack con experiencia en una variedad d
  
 ## Contacto
 Correo electrónico: bartoloniabraham@gmail.com
-LinkedIn: <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="abraham-bartoloni" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/abraham-bartoloni?trk=profile-badge">Abraham Bartoloni</a></div>
+LinkedIn: <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="abraham-bartoloni" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/abraham-bartoloni?trk=profile-badge">Abraham Bartoloni</a></div>
+              
               
 
 Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil!
