@@ -9,6 +9,7 @@ Soy un diseñador y programador web full stack con experiencia en una variedad d
 - MySQL
 
  ## Frameworks y OS :mechanical_arm:
+- Vue
 - React
 - Wordpress
 - Bootstrap
@@ -19,8 +20,8 @@ Soy un diseñador y programador web full stack con experiencia en una variedad d
 - Photoshop
 
 ## Contactame :point_left:
-Correo electrónico: bartoloniabraham@gmail.com
-LinkedIn: https://www.linkedin.com/in/abraham-bartoloni/
+Correo electrónico: [bartoloniabraham@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/abraham-bartoloni/]
               
               
 
