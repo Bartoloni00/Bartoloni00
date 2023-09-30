@@ -3,7 +3,6 @@
 </div>
 Soy un diseñador y programador web full stack con un enfoque en crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
 <br>
-<img src="https://i.imgur.com/weNbhGZ.png](https://media.licdn.com/dms/image/D4D16AQFDglF69Ba_7w/profile-displaybackgroundimage-shrink_350_1400/0/1696084226577?e=1701302400&v=beta&t=JdMgcdYPcohG_uV7VWE73YNOwmQHCBOputUuey4CFg4">
 <div align="center"> 
  <h2 align="center">Lenguajes :man_technologist: </h2>
 </div>
@@ -42,8 +41,8 @@ LinkedIn: [https://www.linkedin.com/in/abraham-bartoloni/]
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bartoloni00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bartoloni00&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--
