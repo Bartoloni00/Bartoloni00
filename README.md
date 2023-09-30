@@ -5,25 +5,27 @@ Soy un diseñador y programador web full stack con un enfoque en crear solucione
 <br>
 <div align="center"> 
  <h2 align="center">Tecnologias utilizadas actualmente :man_technologist: </h2>
+  <p align="center">JavaScript | PHP | VueJS | MySQL | NodeJS | ReactJS | Bootstrap | HTML | CSS </p>
 </div>
-JavaScript | PHP | VueJS | MySQL | NodeJS | ReactJS | Bootstrap | HTML | CSS 
+
 
 <div align="center"> 
  <h2 align="center">Software de diseño que utilizo 	:artist: </h2>
+ <p align="center">illustrator y Photoshop</p>
 </div>
-- Illustrator
-- Photoshop
+
 
 <div align="center"> 
  <h2 align="center">Tecnologias con las que he trabajado :man_technologist: </h2>
+ <p align="center">Linux (CentOS) | Wordpress | Workbench</p>
 </div>
-Linux (CentOS) | Wordpress | Workbench
+
 <div align="center"> 
  <h2 align="center">
 Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil! :point_left: </h2>
 </div>
-Correo electrónico: [bartoloniabraham@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/abraham-bartoloni/]
+- [Enviame un Email](bartoloniabraham@gmail.com)
+- [Contactame en Linkedin](https://www.linkedin.com/in/abraham-bartoloni/)
               
               
 
