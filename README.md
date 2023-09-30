@@ -1,33 +1,23 @@
 <div align="center">
- <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/abraham-bartoloni/">Abraham Bartoloni</a> 👋</h1>
+ <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/abraham-bartoloni/" target="blank">Abraham Bartoloni</a> 👋</h1>
 </div>
 Soy un diseñador y programador web full stack con un enfoque en crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
 <br>
 <div align="center"> 
- <h2 align="center">Lenguajes :man_technologist: </h2>
+ <h2 align="center">Tecnologias utilizadas actualmente :man_technologist: </h2>
 </div>
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- 
-<div align="center"> 
- <h2 align="center">Frameworks y OS :mechanical_arm: </h2>
-</div>
-- Vue
-- React
-- Wordpress
-- Bootstrap
-- Linux (CentOS)
+JavaScript | PHP | VueJS | MySQL | NodeJS | ReactJS | Bootstrap | HTML | CSS 
 
 <div align="center"> 
- <h2 align="center">Software de diseño 	:artist: </h2>
+ <h2 align="center">Software de diseño que utilizo 	:artist: </h2>
 </div>
 - Illustrator
 - Photoshop
 
+<div align="center"> 
+ <h2 align="center">Tecnologias con las que he trabajado :man_technologist: </h2>
+</div>
+Linux (CentOS) | Wordpress | Workbench
 <div align="center"> 
  <h2 align="center">
 Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil! :point_left: </h2>
@@ -40,7 +30,7 @@ LinkedIn: [https://www.linkedin.com/in/abraham-bartoloni/]
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/Bartoloni00">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bartoloni00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bartoloni00&layout=compact&langs_count=8&theme=algolia"/>
 </a>
