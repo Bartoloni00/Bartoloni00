@@ -1,31 +1,51 @@
-# ¡Hola! 👋 Soy Abraham
-Soy un diseñador y programador web full stack con experiencia en una variedad de tecnologías y herramientas. Mi enfoque principal es crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
+<div align="center">
+ <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/abraham-bartoloni/">Abraham Bartoloni</a> 👋</h1>
+</div>
+Soy un diseñador y programador web full stack con un enfoque en crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
+<br>
+<img src="https://i.imgur.com/weNbhGZ.png](https://media.licdn.com/dms/image/D4D16AQFDglF69Ba_7w/profile-displaybackgroundimage-shrink_350_1400/0/1696084226577?e=1701302400&v=beta&t=JdMgcdYPcohG_uV7VWE73YNOwmQHCBOputUuey4CFg4">
+<div align="center"> 
+ <h2 align="center">Lenguajes :man_technologist: </h2>
+</div>
 
-## Lenguajes :man_technologist: 
 - HTML
 - CSS
 - JavaScript
 - PHP
 - MySQL
-
- ## Frameworks y OS :mechanical_arm:
+- 
+<div align="center"> 
+ <h2 align="center">Frameworks y OS :mechanical_arm: </h2>
+</div>
 - Vue
 - React
 - Wordpress
 - Bootstrap
 - Linux (CentOS)
 
-## Software de diseño 	:artist:
+<div align="center"> 
+ <h2 align="center">Software de diseño 	:artist: </h2>
+</div>
 - Illustrator
 - Photoshop
 
-## Contactame :point_left:
+<div align="center"> 
+ <h2 align="center">
+Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil! :point_left: </h2>
+</div>
 Correo electrónico: [bartoloniabraham@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/abraham-bartoloni/]
               
               
 
-Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil!
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **Bartoloni00/Bartoloni00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
