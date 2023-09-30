@@ -2,32 +2,28 @@
  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/abraham-bartoloni/" target="blank">Abraham Bartoloni</a> 👋</h1>
 </div>
 Soy un diseñador y programador web full stack con un enfoque en crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
-<br>
-<div align="center"> 
- <h2 align="center">Tecnologias utilizadas actualmente :man_technologist: </h2>
-  <p align="center">JavaScript | PHP | VueJS | MySQL | NodeJS | ReactJS | Bootstrap | HTML | CSS </p>
-</div>
+          
+## Lenguajes :man_technologist: 
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
+ ## Frameworks y OS :mechanical_arm:
+- Vue
+- React
+- Wordpress
+- Bootstrap
+- Linux (CentOS)
 
-<div align="center"> 
- <h2 align="center">Software de diseño que utilizo 	:artist: </h2>
- <p align="center">illustrator y Photoshop</p>
-</div>
+## Software de diseño 	:artist:
+- Illustrator
+- Photoshop
 
-
-<div align="center"> 
- <h2 align="center">Tecnologias con las que he trabajado :man_technologist: </h2>
- <p align="center">Linux (CentOS) | Wordpress | Workbench</p>
-</div>
-
-<div align="center"> 
- <h2 align="center">
-Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil! :point_left: </h2>
-</div>
-- [Enviame un Email](bartoloniabraham@gmail.com)
-- [Contactame en Linkedin](https://www.linkedin.com/in/abraham-bartoloni/)
-              
-              
+## Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil! :point_left:
+Correo electrónico: [bartoloniabraham@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/abraham-bartoloni/]           
 
 ### ⚙️ &nbsp;GitHub Analytics
 
