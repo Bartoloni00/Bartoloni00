@@ -3,16 +3,19 @@
 </div>
 Soy un diseñador y programador web full stack con un enfoque en crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
           
-## Lenguajes :man_technologist: 
+## Lenguajes y Bases de datos:man_technologist: 
 - HTML
 - CSS
 - JavaScript
 - PHP
-- MySQL
+- MySQL / MariaDB
+- MongoDB
 
- ## Frameworks y OS :mechanical_arm:
+ ## Frameworks , Librerias destacadas y OS :mechanical_arm:
 - Vue
 - React
+- NodeJS
+- Laravel
 - Wordpress
 - Bootstrap
 - Linux (CentOS)
