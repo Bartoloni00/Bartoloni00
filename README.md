@@ -15,6 +15,7 @@ Soy un diseñador y programador web full stack con un enfoque en crear solucione
 - Vue
 - React
 - NodeJS
+- Express js
 - Laravel
 - Wordpress
 - Bootstrap
