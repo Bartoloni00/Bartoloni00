@@ -3,28 +3,29 @@
 </div>
 Soy un diseñador y programador web full stack con un enfoque en crear soluciones web elegantes y funcionales que cumplan con los requisitos del usuario y superen sus expectativas.
           
-## Lenguajes y Bases de datos:man_technologist: 
+## Desarrollo Frontend: :art:
 - HTML
-- CSS
+- CSS (incluyendo Bootstrap y Tailwind)
 - JavaScript
+- Vue.js
+- React
+## Desarrollo Backend: :man_technologist:
 - PHP
+- Node.js
+- Express.js
+- Laravel (Framework de PHP)
+## Bases de Datos: :deciduous_tree: :floppy_disk:
 - MySQL / MariaDB
 - MongoDB
-
- ## Frameworks , Librerias destacadas y OS :mechanical_arm:
-- Vue
-- React
-- NodeJS
-- Express js
-- Laravel
-- Wordpress
-- Bootstrap
+- Firebase
+## Sistemas Operativos y Entorno de Desarrollo: :mechanical_arm:
 - Linux (CentOS)
-
-## Software de diseño 	:artist:
+- Windows
+## Diseño Gráfico y Herramientas Creativas: :artist:
 - Illustrator
 - Photoshop
-
+## Plataformas y CMS: :globe_with_meridians:
+-  WordPress
 ## Si tienes alguna pregunta o te gustaría trabajar conmigo, no dudes en contactarme. ¡Gracias por visitar mi perfil! :point_left:
 Correo electrónico: [bartoloniabraham@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/abraham-bartoloni/]           
