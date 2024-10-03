@@ -1,12 +1,12 @@
-<div style="max-width:800px; margin:auto;">
-
-<h1  style="color: #4493f8;  text-align: center;">Abraham Bartoloni - Programador</h1>
+<div align="center">
+ <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/abraham-bartoloni/" target="blank">Abraham Bartoloni</a> 👋</h1>
+</div>
 
 __Técnico en diseño y programación web full stack orientado en backend__. Me apasiona trabajar con Node.js, TypeScript, Express, Laravel y diversas bases de datos. También tengo experiencia en diseño gráfico y desarrollo de contenido visual. ¡Gracias por visitar mi perfil!
 
- <h2 style="color: #4493f8;  text-align: center;">Tecnologías Principales</h2>
+ <h2 align="center">Tecnologías Principales</h2>
 
-<table style="margin: auto;">
+<table align="center">
   <tr>
     <td style="margin: 20px;">
       <h3 style="text-align: center;">Backend:</h3>
@@ -22,6 +22,8 @@ __Técnico en diseño y programación web full stack orientado en backend__. Me 
       <a href="https://vitejs.dev/guide/" target="_blank"><img src="./src/icons/Vite.js.svg" alt="Vite.js" title="Vite.js" height="40px" style="margin: 5px;"></a>
       <a href="https://tailwindcss.com/" target="_blank"><img src="./src/icons/Tailwind CSS.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40px" style="margin: 5px;"></a>
     </td>
+  </tr>
+  <tr>
     <td style="margin: 20px;">
       <h3 style="text-align: center;">Bases de Datos:</h3>
       <a href="https://www.mysql.com/" target="_blank"><img src="./src/icons/MySQL.svg" alt="MySQL" title="MySQL" height="40px" style="margin: 5px;"></a>
@@ -34,16 +36,18 @@ __Técnico en diseño y programación web full stack orientado en backend__. Me 
       <a href="https://archlinux.org/" target="_blank"><img src="./src/icons/Arch Linux.svg" alt="Arch Linux" title="Arch Linux" height="40px" style="margin: 5px;"></a>
       <a href="https://ubuntu.com/" target="_blank"><img src="./src/icons/Ubuntu.svg" alt="Ubuntu Linux" title="Ubuntu Linux" height="40px" style="margin: 5px;"></a>
     </td>
-   <td>
-  <h3 style="text-align: center;">Testing:</h3>
-  <a href="https://jestjs.io/" target="_blank"><img src="./src/icons/Jest.svg" alt="Jest" title="Jest" height="40px" style="margin: 5px;"></a>
-   </td>
   </tr>
+ <tr>
+  <td>
+     <h3 style="text-align: center;">Testing:</h3>
+  <a href="https://jestjs.io/" target="_blank"><img src="./src/icons/Jest.svg" alt="Jest" title="Jest" height="40px" style="margin: 5px;"></a>
+  </td>
+ </tr>
 </table>
 
-<h2 style="color: #4493f8; text-align: center;">Otras Tecnologías</h2>
+<h2 align="center">Otras Tecnologías</h2>
 
-<table style="margin: auto;">
+<table align="center">
   <tr>
     <td>
       <h3 style="text-align: center;">Diseño Gráfico:</h3>
@@ -63,7 +67,7 @@ __Técnico en diseño y programación web full stack orientado en backend__. Me 
   </tr>
 </table>
 
-<h2 style="color: #4493f8; text-align: center;">Mis analiticas de github</h2>
+<h2 align="center">Mis analiticas de github</h2>
 
 <p align="center">
 <a href="https://github.com/Bartoloni00">
