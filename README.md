@@ -22,8 +22,6 @@ __Técnico en diseño y programación web full stack orientado en backend__. Me 
       <a href="https://vitejs.dev/guide/" target="_blank"><img src="./src/icons/Vite.js.svg" alt="Vite.js" title="Vite.js" height="40px" style="margin: 5px;"></a>
       <a href="https://tailwindcss.com/" target="_blank"><img src="./src/icons/Tailwind CSS.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40px" style="margin: 5px;"></a>
     </td>
-  </tr>
-  <tr>
     <td style="margin: 20px;">
       <h3 style="text-align: center;">Bases de Datos:</h3>
       <a href="https://www.mysql.com/" target="_blank"><img src="./src/icons/MySQL.svg" alt="MySQL" title="MySQL" height="40px" style="margin: 5px;"></a>
@@ -36,13 +34,12 @@ __Técnico en diseño y programación web full stack orientado en backend__. Me 
       <a href="https://archlinux.org/" target="_blank"><img src="./src/icons/Arch Linux.svg" alt="Arch Linux" title="Arch Linux" height="40px" style="margin: 5px;"></a>
       <a href="https://ubuntu.com/" target="_blank"><img src="./src/icons/Ubuntu.svg" alt="Ubuntu Linux" title="Ubuntu Linux" height="40px" style="margin: 5px;"></a>
     </td>
+   <td>
+  <h3 style="text-align: center;">Testing:</h3>
+  <a href="https://jestjs.io/" target="_blank"><img src="./src/icons/Jest.svg" alt="Jest" title="Jest" height="40px" style="margin: 5px;"></a>
+   </td>
   </tr>
 </table>
-
-<h3 style="text-align: center;">Testing:</h3>
-<div style="text-align: center;">
-  <a href="https://jestjs.io/" target="_blank"><img src="./src/icons/Jest.svg" alt="Jest" title="Jest" height="40px" style="margin: 5px;"></a>
-</div>
 
 <h2 style="color: #4493f8; text-align: center;">Otras Tecnologías</h2>
 
